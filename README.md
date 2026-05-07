@@ -465,8 +465,7 @@ General Engineering:
 |:-----|:------------|
 | [🌐 Portfolio](https://sushmanth-cybersecurity.vercel.app) | Full portfolio with project showcase |
 | [💼 LinkedIn](https://www.linkedin.com/in/sushmanth-j-163335373/) | Professional profile |
-| [🔍 OSINT Toolkit](../osint-investigation-framework) | My OSINT methodology repo |
-| [🛡️ SOC Notes](../soc-analyst-toolkit) | Alert triage and SOC methodology |
+
 
 ---
 
