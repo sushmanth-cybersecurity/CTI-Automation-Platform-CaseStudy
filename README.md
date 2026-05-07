@@ -22,7 +22,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**Status:** Deployed in Local Machine &nbsp;|&nbsp;
+**Status:** Deployed in Locally Deployed &nbsp;|&nbsp;
 **Role:** Sole Developer &nbsp;|&nbsp;
 **Duration:** Feb 2026 – Apr 2026
 
