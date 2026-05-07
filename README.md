@@ -22,7 +22,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-**Status:** Deployed in Production &nbsp;|&nbsp;
+**Status:** Deployed in Local Machine &nbsp;|&nbsp;
 **Role:** Sole Developer &nbsp;|&nbsp;
 **Duration:** Feb 2026 – Apr 2026
 
@@ -475,7 +475,7 @@ General Engineering:
 *Built with curiosity, caffeine, and a genuine belief that security automation*
 *should make analysts faster — not replace their judgment.*
 
-**Sushmanth** · SOC Analyst · Cyber Forensics · OSINT
+**Sushmanth** · SOC Analyst · Cyber Forensics · Cybersecurity Automation · Threat Intelligence · OSINT
 `Andhra Pradesh, India`
 
 </div>
