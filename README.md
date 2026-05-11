@@ -23,7 +23,6 @@
 ![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **Status:** Locally Deployed &nbsp;|&nbsp;
-**Role:** Sole Developer &nbsp;|&nbsp;
 **Duration:** Feb 2026 – Apr 2026
 
 </div>
